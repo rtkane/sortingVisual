@@ -1,5 +1,8 @@
 # Sorting Algorithm Visualizer
 
+https://github.com/user-attachments/assets/52e72e6a-b205-4b44-8770-fa6f52c949c0
+
+
 This project is a **Sorting Algorithm Visualizer** built with Python and Pygame. It allows users to visualize how common sorting algorithms like Bubble Sort and Insertion Sort work step by step, displaying the sorting process in real-time.
 
 ---
